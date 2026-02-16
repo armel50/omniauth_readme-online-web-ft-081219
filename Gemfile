@@ -27,7 +27,7 @@ gem 'turbolinks'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'omniauth'
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '>= 6.0.0'
 # Use Unicorn as the app server
 # gem 'unicorn'
 gem "dotenv-rails"
